@@ -1,5 +1,6 @@
 {
   "hashAlgorithm": "blake2b-256",
+  "@type": "DRep",
   "authors": [],
   "body": {
     "givenName": "BTCnADA",
@@ -11,6 +12,6 @@
       { "@type": "Link", "label": "X", "uri": "https://x.com/BTCnADA" }
     ],
     "doNotList": false
-  }
+  },
+  "signature": ""
 }
-
